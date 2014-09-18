@@ -1,0 +1,2 @@
+rule :2-1=>5-1 confidence :0.25
+rule :5-1=>2-1 confidence :0.5714285714285714

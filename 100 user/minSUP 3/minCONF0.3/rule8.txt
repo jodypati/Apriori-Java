@@ -1,0 +1,2 @@
+rule :7-1=>18-1 confidence :0.4444444444444444
+rule :18-1=>7-1 confidence :0.4

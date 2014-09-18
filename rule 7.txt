@@ -1,0 +1,11 @@
+0
+	Itemset:2-1
+	Support:15
+	Key:2
+	Itemset:3-1
+	Support:24
+	Key:4
+	Itemset:3-7
+	Support:9
+	Key:5
+1

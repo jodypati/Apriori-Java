@@ -1,0 +1,2 @@
+rule :2-1=>3-7 confidence :0.25
+rule :3-7=>2-1 confidence :0.8
